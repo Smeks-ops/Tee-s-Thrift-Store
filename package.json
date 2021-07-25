@@ -3,6 +3,9 @@
   "version": "0.0.0",
   "server": false,
   "private": true,
+  "engines": {
+    "node": "15.x"
+  },
   "scripts": {
     "start": "nodemon app.js",
     "serve": "turbo devserver",
