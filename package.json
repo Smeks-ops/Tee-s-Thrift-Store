@@ -11,7 +11,8 @@
     "serve": "turbo devserver",
     "test": "",
     "build": "",
-    "postinstall": "turbo postinstall"
+    "postinstall": "turbo postinstall",
+    "reset": "rimraf ./tmp/*"
   },
   "dependencies": {
     "consola": "^2.15.3",

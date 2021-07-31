@@ -19,7 +19,7 @@ const config = {
       $ turbo extend cms
       then uncomment line 21 below: */
 
-  // db: vertex.nedb()
+  db: vertex.nedb()
 }
 
 vertex.configureApp(app, config)
