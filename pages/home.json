@@ -1,0 +1,26 @@
+{
+  "hero": {
+    "slides": [
+      {
+        "img_background": "/img/bg-images/1.jpg",
+        "header": "Ointments",
+        "text": "Please buy from us..."
+      },
+      {
+        "img_background": "/img/bg-images/2.jpg",
+        "header": "Latest Arrivals",
+        "text": "Please buy from us..."
+      },
+      {
+        "img_background": "/img/bg-images/3.png",
+        "header": "Book Club",
+        "text": "Join our gang"
+      },
+      {
+        "img_background": "/img/bg-images/4.png",
+        "header": "Custom Products",
+        "text": "Buy two items and get a gift box free"
+      }
+    ]
+  }
+}
