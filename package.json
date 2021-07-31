@@ -17,6 +17,7 @@
   "dependencies": {
     "consola": "^2.15.3",
     "express": "^4.17.1",
+    "mongo-turbo-connection": "^0.3.0",
     "turbo360": "^1.8.69",
     "vertex360": "^0.30.39"
   },

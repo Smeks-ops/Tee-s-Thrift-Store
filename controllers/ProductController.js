@@ -1,4 +1,4 @@
-const { Controller } = require('vertex360')({ site_id: process.env.TURBO_APP_ID })
+const { utils, Controller } = require('vertex360')({ site_id: process.env.TURBO_APP_ID })
 const Product = require('../models/Product')
 
 class ProductController extends Controller {

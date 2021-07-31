@@ -2,7 +2,7 @@ const { Model } = require('vertex360')({ site_id: process.env.TURBO_APP_ID })
 
 const props = {
   image: { type: String, default: '' },
-  name: { type: String, default: '' },
+  name: { type: String, default: '', display: true },
   slug: { type: String, default: '' }, // unique identifier
   price: { type: Number, default: 0 },
   description: { type: String, default: '' },
